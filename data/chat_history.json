@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "我觉得很难受",
+    "timestamp": "16:56"
+  },
+  {
+    "role": "assistant",
+    "content": "嗯，我感受到了。难受的时候可以不用说话，我就在这里静静陪着你。要不要先喝点温水，或者把眼睛闭上一小会儿？",
+    "timestamp": "16:56"
+  },
+  {
+    "role": "user",
+    "content": "我喝了点温水，现在感觉好了一点",
+    "timestamp": "17:03"
+  },
+  {
+    "role": "assistant",
+    "content": "嗯，能喝下温水，这很好。我就在这儿，安静地陪着你。",
+    "timestamp": "17:03"
+  }
+]
